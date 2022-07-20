@@ -1,4 +1,4 @@
-# This is an attempt to implment Redux, Routing, and Authentication
+# This is an attempt to implement Redux, Routing, and Authentication
 
 # Getting Started with Create React App
 
